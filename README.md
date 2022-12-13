@@ -35,7 +35,7 @@ Idea by Rkyungdeok and made by OpenSource team 29.
 - Reference from OpenSource Lecture week 13 ppt by Prof.Youngmin Oh
 
 **3. detect_face.py haarcascade_profileface.xml to detect sideface**
-- Reference from OpenSource Lecture week 13 ppt by Prof.Youngmin Oh
+- Reference from OpenSource Lecture ppt by Prof.Youngmin Oh
 
 # Results
 **Results After Python connect_carmer.py**
