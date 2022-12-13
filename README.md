@@ -33,3 +33,15 @@ Idea by Rkyungdeok and made by OpenSource team 29.
 - Reference from OpenSource Lecture week 13 ppt by Prof.Youngmin Oh
 
 # Results
+
+
+![temp_1670926862845 -1833651748](https://user-images.githubusercontent.com/113025040/207306656-53a1716a-72e6-452f-a184-426f340b21e4.jpeg)
+
+
+![temp_1670926873461 -493618965](https://user-images.githubusercontent.com/113025040/207306664-d86f602c-4e2b-44fe-add1-355571a1d3f6.jpeg)
+
+
+![temp_1670926884032 -376915748](https://user-images.githubusercontent.com/113025040/207306670-458004e1-8c26-4129-8c2e-1dafe8f58ab2.jpeg)
+
+
+![temp_1670926892379 1567086311](https://user-images.githubusercontent.com/113025040/207306677-43a5bf7e-395a-4f98-b11c-9b8c67f99bbe.jpeg)
