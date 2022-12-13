@@ -15,6 +15,7 @@ Idea by Rkyungdeok and made by OpenSource team 29.
 
 ***2. Detecting face***
 - haarcascade_frontalface_default.xml
+- detect_face.py to marking face with square
 
 ***3. Detecting face in different aspect***
 - haarcascade_profileface.xml
@@ -30,6 +31,10 @@ Idea by Rkyungdeok and made by OpenSource team 29.
 - Download from Github at [*official Github site address*](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 **2. haarcascade_profileface.xml to detect sideface**
+- Download from Github at [*official Github site address*](https://github.com/opencv/opencv/tree/master/data/haarcascades
+- Reference from OpenSource Lecture week 13 ppt by Prof.Youngmin Oh
+
+**3. detect_face.py haarcascade_profileface.xml to detect sideface**
 - Reference from OpenSource Lecture week 13 ppt by Prof.Youngmin Oh
 
 # Results
