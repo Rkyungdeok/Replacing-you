@@ -33,19 +33,19 @@ Idea by Rkyungdeok and made by OpenSource team 29.
 - Reference from OpenSource Lecture week 13 ppt by Prof.Youngmin Oh
 
 # Results
-**Current connect carmer.py execution result**
+**Results After Python connect_carmer.py**
 
 
 ![temp_1670926862845 -1833651748](https://user-images.githubusercontent.com/113025040/207292573-8fc1a459-09db-4ea1-a87d-0a1a44b33f4e.jpeg)
 
-**The result of executing the connect.camera by excluding the symmetrical part**
+**The result of executing the connect_camera by excluding the symmetrical part**
 
 
 ![temp_1670926873461 -493618965](https://user-images.githubusercontent.com/113025040/207294540-9cc6abbd-688f-49e7-9dde-cf95a279d32b.jpeg)
 
-**detect_face execution result**
+**detect_face.py execution result**
 
 
 ![temp_1670926892379 1567086311](https://user-images.githubusercontent.com/113025040/207294560-d28ef98c-4c31-4a5f-9d17-57b0b8aba75c.jpeg)
 
-**The image that appears when there is no face**
+**An image that comes out when you don't show your face**
